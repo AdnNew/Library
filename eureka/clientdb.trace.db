@@ -1,0 +1,3 @@
+2022-10-21 18:54:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "CLIENT" not found (this database is empty); SQL statement:
+select client0_.client_id as client_i1_0_, client0_.email as email2_0_, client0_.first_name as first_na3_0_, client0_.last_name as last_nam4_0_, client0_.status as status5_0_ from client client0_ [42104-214]
